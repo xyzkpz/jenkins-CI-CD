@@ -1,0 +1,8 @@
+what is CI/CD...??
+
+it is stands for 
+continous integration and and continous delivery  embody a culture
+
+In this Section we will have the essentials about Jenkins ...
+
+so we can start building our pipelines from the scratch
